@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MccWirelessDC</string>
+    <string name="txtTitle">MCC Wireless</string>
+    <string name="txtSubtitle">Switch Now and Save!</string>
+    <string name="txtSelect">Select Plan to See Savings:</string>
+    <string name="radBudget">Budget Plan</string>
+    <string name="radStandard">Standard Plan</string>
+    <string name="radUltra">Ultra Plan</string>
+    <string name="txtCallText">All plans feature unlimited call and text.</string>
+    <string name="txt5GB">5 GB of data a month</string>
+    <string name="txtUnlimited">Unlimited Data</string>
+    <string name="txtHint">Enter your current bill</string>
+    <string name="txtDefeat">Wow, you have a great phone bill!</string>
+    <string name="txtButton">Calculate Savings</string>
+    <string name="txtCat">Still not convinced? Here is a picture of a cat. His name is Mr. Fuzzballz, and he wants you to switch to MCC Wireless.</string>
+    <string name="txtData">Standard plan features 5GB of data. Ultimate features unlimited data.</string>
+</resources>
